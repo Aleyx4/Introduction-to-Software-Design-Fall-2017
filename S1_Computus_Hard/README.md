@@ -1,5 +1,4 @@
 # S1_Computus_Hard
-# Submitted by @awong4 as part of @swd2017
 
 [Home](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017- "Home")
 
