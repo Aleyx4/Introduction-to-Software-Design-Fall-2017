@@ -1,6 +1,6 @@
 # S1_Computus_Hard
 
-[Home](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017- "Home")
+[Home](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017 "Home")
 
 ### Problem Statement
 This program is to determine the date of Easter when the user inputs in a particular year.  The following is an example of the program display:
@@ -73,6 +73,6 @@ Overall with the functions provided you are able to format the date to your desi
 
 In **ComputusJUnit4Test** it tested twenty different years to see if the program would return the correct dates of Easter. Calling each of the methods to return either the correct day, month and year. The following source was used to determine the correct dates of Easter: https://www.census.gov/srd/www/genhol/easter500.html
 
-### [JavaDocs](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017-/tree/master/S1_Computus_Hard/JavaDoc)
+### [JavaDocs](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/S1_Computus_Hard/JavaDoc)
 
-### [Source Code](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017-/tree/master/S1_Computus_Hard/src/com/homework/S1_Computus_Hard)
+### [Source Code](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/S1_Computus_Hard/src/com/homework/S1_Computus_Hard)
