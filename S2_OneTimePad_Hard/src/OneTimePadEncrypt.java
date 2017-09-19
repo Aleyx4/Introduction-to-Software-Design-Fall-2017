@@ -30,6 +30,8 @@ public class OneTimePadEncrypt {
      **/
     private static char encrypt(int shift, char c)
     {
+        System.out.println(c);
+        System.out.println(shift);
         /*
         * For Loop
         *
@@ -38,15 +40,15 @@ public class OneTimePadEncrypt {
         */
         for(int i = 0; i<shift; i++)
         {
-            //If character reaches to the end of the uppercase alphabet go back to 'A'
-            if(c == 'Z')
-            {
-                c = 'A';
-            }
             //If character is a space then output back a space by doing nothing
-            else if(c == ' ')
+            if(c == ' ')
             {
 
+            }
+            //Else If character reaches to the end of the uppercase alphabet go back to 'A'
+            else if(c == 'Z')
+            {
+                c = 'A';
             }
             //Otherwise increment to the next character in the alphabet
             else
@@ -55,6 +57,7 @@ public class OneTimePadEncrypt {
             }
         }
         //Return the new encrypted character
+        System.out.println(c);
         return c;
     }
 
