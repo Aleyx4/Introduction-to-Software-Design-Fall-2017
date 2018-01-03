@@ -1,5 +1,5 @@
-# awong4 SWD Portfolio
-My goals in this class are to refresh my understanding of Java and to learn new GUI technics that can be implemented in my programs. I also would like to be able to get a better understanding of how Android Programming works as well. Overall I would like to become more knowledgeable in Java by the end of this class.
+# Alex's Software Design Portfolio
+In this course I refreshed my understanding of Java from my pervious courses at Kirkwood Community College. I also learned new GUI technics that can be implemented in my programs. I also learned more in Networking, Multi-Threading, and the use of XML files for Java FX thoughout this course. In the end of the course I gained a better understanding on documentation from JavaDocs, UML, and the use of repositories.
 
 ## Introduction
 - [x] [Figure 2.4 (Welcome3.java)]("Figure 2.4 (Welcome3.java)")
