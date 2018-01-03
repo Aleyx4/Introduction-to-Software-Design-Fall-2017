@@ -73,6 +73,9 @@ Overall with the functions provided you are able to format the date to your desi
 
 In **ComputusJUnit4Test** it tested twenty different years to see if the program would return the correct dates of Easter. Calling each of the methods to return either the correct day, month and year. The following source was used to determine the correct dates of Easter: https://www.census.gov/srd/www/genhol/easter500.html
 
+### UML Diagram
+![S1_Computus_Hard](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/blob/master/S1_Computus_Hard/doc/S1_Computus_Hard_UML.png?raw=true)
+
 ### [JavaDocs](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/S1_Computus_Hard/JavaDoc)
 
 ### [Source Code](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/S1_Computus_Hard/src/com/homework/S1_Computus_Hard)
