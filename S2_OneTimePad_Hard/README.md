@@ -74,8 +74,8 @@ This will do the same as what `encrypt()` did but in reverse where it will shift
 
 ### UML Diagram
 
-![S2_OneTimePad_Hard_UML](https://class-git.engineering.uiowa.edu/swd2017/awong4_swd/raw/master/oral_exam1/S2_OneTimePad_Hard/S2_OneTimePad_Hard_UML.png)
+![S2_OneTimePad_Hard_UML](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/blob/master/S2_OneTimePad_Hard/doc/S2_OneTimePad_Hard_UML.png?raw=true)
 
-### [JavaDocs](http://localhost:8000/oral_exam1/S2_OneTimePad_Hard/doc/)
+### [JavaDocs](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/S2_OneTimePad_Hard/doc)
 
-### [Source Code](https://class-git.engineering.uiowa.edu/swd2017/awong4_swd/tree/master/oral_exam1/S2_OneTimePad_Hard/src)
+### [Source Code](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/S2_OneTimePad_Hard/src)
