@@ -1,5 +1,4 @@
 # S2_OneTimePad_Hard
-# Submitted by @awong4 as part of @swd2017
 
 [Home](https://class-git.engineering.uiowa.edu/swd2017/awong4_swd/wikis/home "Home")
 
