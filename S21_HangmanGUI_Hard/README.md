@@ -1,7 +1,6 @@
 # S21_Hangman_Hard
-# Submitted by @awong4 as part of @swd2017
 
-[Home](https://class-git.engineering.uiowa.edu/swd2017/awong4_swd/wikis/home "Home")
+[Home](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017 "Home")
 
 ### Problem Statement
 This program is to allow the user to be able to play Hangman with a implemented GUI. The GUI will need the following:
@@ -52,8 +51,8 @@ The `DrawHangman` class will override the inherited class of painComponent from 
 
 ### UML Diagram
 
-![S21_Hangman_Hard_UML](https://class-git.engineering.uiowa.edu/swd2017/awong4_swd/raw/master/oral_exam1/S21_HangmanGUI_Hard/S21_HangmanGUI_Hard_UML.png)
+![S21_Hangman_Hard_UML](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/blob/master/S21_HangmanGUI_Hard/doc/S21_HangmanGUI_Hard_UML.png?raw=true)
 
-### [JavaDocs](http://localhost:8000/oral_exam1/S21_HangmanGUI_Hard/doc/)
+### [JavaDocs](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/S21_HangmanGUI_Hard/doc)
 
-### [Source Code](https://class-git.engineering.uiowa.edu/swd2017/awong4_swd/tree/master/oral_exam1/S21_HangmanGUI_Hard/src)
+### [Source Code](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/S21_HangmanGUI_Hard/src)
