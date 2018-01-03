@@ -5,7 +5,7 @@ My goals in this class are to refresh my understanding of Java and to learn new 
 - [x] [Figure 2.4 (Welcome3.java)]("Figure 2.4 (Welcome3.java)")
 
 ## Oral Exam 1
-- [x] [S1_Computus_Hard]("S1_Computus_Hard")
+- [x] [S1_Computus_Hard](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/S1_Computus_Hard "S1_Computus_Hard")
 - [x] [S2_OneTimePad_Hard]("S2_OneTimePad_Hard")
 - [x] [S21_Hangman_Hard]("S21_Hangman_Hard")
 - [x] [12-9_Calculator_Hard]("12-9_Calculator_Hard")
