@@ -1,0 +1,7 @@
+Hello
+This is a file
+To test the server and client
+Of the File Retrieval System.
+
+If you see this message then the File Retrieval System
+is complete.
