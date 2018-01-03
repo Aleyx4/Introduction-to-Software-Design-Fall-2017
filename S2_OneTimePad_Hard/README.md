@@ -1,6 +1,6 @@
 # S2_OneTimePad_Hard
 
-[Home](https://class-git.engineering.uiowa.edu/swd2017/awong4_swd/wikis/home "Home")
+[Home](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017 "Home")
 
 ### Problem Statement
 This program needs to generate a key file with the user inputting a set number of values to be generated as a key.
