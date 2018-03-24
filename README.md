@@ -1,5 +1,5 @@
 # Alex's Software Design Portfolio
-In this course I refreshed my understanding of Java from my pervious courses at Kirkwood Community College. I also learned new GUI technics that can be implemented in my programs. I also learned more in Networking, Multi-Threading, and the use of XML files for Java FX thoughout this course. In the end of the course I gained a better understanding on documentation from JavaDocs, UML, and the use of repositories.
+In this course I refreshed my understanding of Java from my previous courses at Kirkwood Community College. I also learned new GUI technics that can be implemented in my programs. I also learned more in Networking, Multi-Threading, and the use of XML files for Java FX thoughout this course. In the end of the course I gained a better understanding on documentation from JavaDocs, UML, and the use of repositories.
 
 ## Introduction
 - [x] [Figure 2.4 (Welcome3.java)](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/Figure%202.4%20(Welcome3.java) "Figure 2.4 (Welcome3.java)")
