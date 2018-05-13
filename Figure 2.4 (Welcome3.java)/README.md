@@ -24,4 +24,4 @@ System.out.println("Welcome\nto\nJava\nProgramming!");
 ```
 This will print out the text and create a line break in between when `\n` is injected. 
 
-### [Source Code] (https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/Figure%202.4%20(Welcome3.java)/src)
+[Source Code] (https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/Figure%202.4%20(Welcome3.java)/src)
