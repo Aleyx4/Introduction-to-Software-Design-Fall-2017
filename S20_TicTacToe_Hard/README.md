@@ -2,6 +2,8 @@
 
 [Home](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017 "Home")
 
+![ScreenShot](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/blob/master/S20_TicTacToe_Hard/doc/Screenshot.png?raw=true)
+
 ### Problem Statement
 This is a Tic Tac Toe game that will support the following game modes.
 
