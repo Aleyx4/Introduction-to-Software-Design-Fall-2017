@@ -2,11 +2,13 @@
 
 [Home](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017 "Home")
 
+![ScreenShot](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/blob/master/23-11_BouncingBalls_Medium/doc/Screenshot.png?raw=true)
+
 ### Problem Statement
 Write a program that will bounce balls in a window. The balls should be created with a click of a mouse. When the ball hits the edge of the window it should bounce off the edge and continue moving in the opposite direction. Each ball should be in a separate thread.
 
 ### User Documentation
-When this program runs the user will be able to create a ball with each click the user makes. The program will randomly assign this ball a color, size, and movement pattern. The program will be able to end at anytime the user closes the window.
+When this program runs the user will be able to create a ball with each click the user makes. The program will randomly assign this ball a color, size, and movement pattern. The program will be able to end at anytime the user closes the window. The window size can be dynamically changed and the balls will bounce accordingly to the new window size.
 
 ### Developer Documentation
 This program has several classes. This includes a ball class, movement class and the application class.
