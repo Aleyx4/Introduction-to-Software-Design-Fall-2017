@@ -8,7 +8,7 @@ Write a recursive method to traverse through the maze. The maze is based on a 2D
 
 #### Example of a Maze:
 
-![Maze Example](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/18-20_MazeTraversal_Hard/doc/Screenshot_1.png?raw=true)
+![Maze Example](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/blob/master/18-20_MazeTraversal_Hard/doc/Screenshot_1.png?raw=true)
 
 ### User Documentation
 The user will not need to do anything because the program will automatically run and traverse through the maze.
