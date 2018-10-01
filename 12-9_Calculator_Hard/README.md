@@ -2,6 +2,8 @@
 
 [Home](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017 "Home")
 
+![ScreenShot](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/blob/master/12-9_Calculator_Hard/doc/Screenshot.png?raw=true)
+
 ### Problem Statement
 Create a GUI calculator that will run the basic functions:
 - Addition
