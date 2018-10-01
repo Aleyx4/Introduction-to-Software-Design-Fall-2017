@@ -2,6 +2,8 @@
 
 [Home](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017 "Home")
 
+![ScreenShot](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/blob/master/S21_HangmanGUI_Hard/doc/Screenshot.png?raw=true)
+
 ### Problem Statement
 This program is to allow the user to be able to play Hangman with a implemented GUI. The GUI will need the following:
 
