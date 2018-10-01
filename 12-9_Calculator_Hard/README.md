@@ -23,6 +23,6 @@ Creating a new Calculator Object will automatically initialize the JFrame for th
 
 ![12-9_Calculator_Hard](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/blob/master/12-9_Calculator_Hard/doc/12-9_Calculator_Hard_UML.png?raw=true)
 
-### [JavaDocs](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/12-9_Calculator_Hard/doc
+### [JavaDocs](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/12-9_Calculator_Hard/doc)
 
 ### [Source Code](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/tree/master/12-9_Calculator_Hard/src)
