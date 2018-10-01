@@ -2,6 +2,8 @@
 
 [Home](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017 "Home")
 
+![ScreenShot](https://github.com/Aleyx4/Introduction-to-Software-Design-Fall-2017/blob/master/22-13_ColorChooser_Hard/doc/Screenshot.png?raw=true)
+
 ### Problem Statement
 Create a color chooser that will provide three sliders and text fields. Each slider and text field will have a specific value from 0 to 255 for the colors red, green, and blue which are all part of the color composition. These values will be linked to each other if the slider updates then the text field should update as well and in reverse as well. A panel should preview the current color values and should auto update with each change in value of the color composition.
 
