@@ -30,7 +30,6 @@ The classes that inherit **TwoDimensionalShapes** are **NoAngle2DShapes**, **Ang
 **Ellipse** class will use the inherited class **NoAngle2DShapes** to set the Vertical and Horizontial Radii. After use `calcArea()` and `calcPerimeter()` to set those values as well with the Radii set.
 
 
-<br>
 **Circle** class will reuse the Ellipse class but instead it will set the Radii to be equal to each other instead. The calculations for area and perimeter will be the same as the Ellipse from the inherited class **NoAngle2DShapes**.
 
 
